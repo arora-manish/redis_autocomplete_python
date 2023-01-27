@@ -14,7 +14,7 @@ cd redis_autocomplete_python
 docker-compose up
 ```
 
-[Open This Link in Your Browser](http://localhost:5000)
+[Open This Link in Your Browser](http://localhost:5099)
 
 
 ## Running Locally
