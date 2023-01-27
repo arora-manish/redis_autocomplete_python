@@ -19,7 +19,7 @@ services:
     links:
       - "redis:redis"
     ports:
-      - "5000:5000"
+      - "5099:5099"
     environment:
         - REDIS_SERVER=redis
         - REDIS_PORT=6379
