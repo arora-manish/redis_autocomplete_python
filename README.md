@@ -9,7 +9,7 @@
 ### Running Dockerized Version
 
 ```
-git clone https://github.com/maguec/redis_autocomplete_python
+git clone https://github.com/arora-manish/redis_autocomplete_python
 cd redis_autocomplete_python
 docker-compose up
 ```
